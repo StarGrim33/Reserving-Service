@@ -1,0 +1,8 @@
+
+*.bin
+*.vsidx
+*.json
+Reserving/.vs/Reserving/v17/.suo
+*.v2
+*.cache
+*.editorconfig
