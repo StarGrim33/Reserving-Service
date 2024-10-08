@@ -1,0 +1,13 @@
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\bin\Debug\net8.0\Reserving.Domain.deps.json
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\bin\Debug\net8.0\Reserving.Domain.dll
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\bin\Debug\net8.0\Reserving.Domain.pdb
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.csproj.AssemblyReference.cache
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.AssemblyInfoInputs.cache
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.AssemblyInfo.cs
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.csproj.CoreCompileInputs.cache
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.sourcelink.json
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.dll
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\refint\Reserving.Domain.dll
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\Reserving.Domain.pdb
+C:\Users\prosk\OneDrive\Desktop\PetProjects\Reserving\Reserving\Reserving\src\Reserving.Domain\obj\Debug\net8.0\ref\Reserving.Domain.dll
