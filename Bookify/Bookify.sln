@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Domain", "src\Booki
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Application", "src\Bookify.Application\Bookify.Application.csproj", "{BE5FDC83-56E9-4CF6-8D9D-0B2C2F11D7F9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Infrastructure", "src\Bookify.Infrastructure\Bookify.Infrastructure.csproj", "{9A5B62A3-32C2-4905-BAF2-697F28FF4267}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Bookify.Infrastructure", "src\Bookify.Infrastructure\Bookify.Infrastructure.csproj", "{9A5B62A3-32C2-4905-BAF2-697F28FF4267}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bookify.Api", "src\Bookify.Api\Bookify.Api.csproj", "{F6C610E0-C328-44BC-9C9D-D26A39692645}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{8A5F2AD5-DD8C-4ACD-AA4C-D2A962EDD596}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,6 +35,14 @@ Global
 		{9A5B62A3-32C2-4905-BAF2-697F28FF4267}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9A5B62A3-32C2-4905-BAF2-697F28FF4267}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9A5B62A3-32C2-4905-BAF2-697F28FF4267}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6C610E0-C328-44BC-9C9D-D26A39692645}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6C610E0-C328-44BC-9C9D-D26A39692645}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6C610E0-C328-44BC-9C9D-D26A39692645}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6C610E0-C328-44BC-9C9D-D26A39692645}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A5F2AD5-DD8C-4ACD-AA4C-D2A962EDD596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A5F2AD5-DD8C-4ACD-AA4C-D2A962EDD596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A5F2AD5-DD8C-4ACD-AA4C-D2A962EDD596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A5F2AD5-DD8C-4ACD-AA4C-D2A962EDD596}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -39,6 +51,7 @@ Global
 		{9320FB7A-4C41-4564-BA73-03066EDD41CE} = {D97FC30F-7D4C-4EB5-9784-1F403E0CA7CF}
 		{BE5FDC83-56E9-4CF6-8D9D-0B2C2F11D7F9} = {D97FC30F-7D4C-4EB5-9784-1F403E0CA7CF}
 		{9A5B62A3-32C2-4905-BAF2-697F28FF4267} = {D97FC30F-7D4C-4EB5-9784-1F403E0CA7CF}
+		{F6C610E0-C328-44BC-9C9D-D26A39692645} = {D97FC30F-7D4C-4EB5-9784-1F403E0CA7CF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {7886086E-5FDE-4346-9331-C3CEE77E1E7A}
